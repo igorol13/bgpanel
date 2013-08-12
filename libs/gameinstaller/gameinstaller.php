@@ -367,7 +367,7 @@ class GameInstaller {
 	//------------------------------------------------------------------------------------------------------------+
 
 	/**
-	 * Makes Game Cache Repository
+	 * Make Game Cache Repository
 	 * Execute All Loaded Actions For The Selected Game
 	 *
 	 * @param void
@@ -413,7 +413,7 @@ class GameInstaller {
 	}
 
 	/**
-	 * Removes Game Cache Repository
+	 * Remove Game Cache Repository
 	 * Flush repository contents
 	 *
 	 * @param void
@@ -440,7 +440,7 @@ class GameInstaller {
 	//------------------------------------------------------------------------------------------------------------+
 
 	/**
-	 * Makes Game Server
+	 * Make Game Server
 	 * Execute All Loaded Actions For The Selected Game
 	 *
 	 * @see: GameInstaller::makeRepo( )
@@ -534,7 +534,7 @@ class GameInstaller {
 	}
 
 	/**
-	 * Removes Game Server Files
+	 * Remove Game Server Files
 	 * Flush game server contents
 	 *
 	 * @param void
